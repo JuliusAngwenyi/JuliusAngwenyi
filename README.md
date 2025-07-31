@@ -12,3 +12,4 @@ I'm Julius! I'm an experienced IT professional and a multi-cloud solution archit
 ### YouTube videos:
 - Sitecore Symposium 2021 [Zero Downtime deployments](https://youtu.be/X139DtxzWTs?feature=shared)
 - Sitecore Symposium 2020 [Transitioning Sitecore AD module into Azure AD (Microsoft EntraID)](https://youtu.be/JnsR6f7_d18?feature=shared)
+- SUGCON Global 2021 [Zero down time deployments for both Sitecore XM and XP scaled scenarios](https://youtu.be/qm8YoN0aYVo?si=9X0MAj46GdVn78hg)
