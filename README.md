@@ -8,6 +8,7 @@
 I'm an experienced IT professional and a multi-cloud solution architect. I work for Avanade as a Group Manager within Enterprise Technolgoy Architecture.  I'm passionate about technology and an Agile practitioner. You can visit [my blog](https://360agileweb.dev/) where I share technology related content with community.
 
 - 🌱 I’m currently learning latest [AI technologies including Agentic AI, Azure AI Foundry and many more](https://ai.azure.com/)
+- 🌱 I’m currently learning [DeepLearning.AI short courses](https://www.deeplearning.ai/courses/), upskilling on Transformers, LLMs, RAGs and leveraging LangChain for LLM Application Development
 
 ### Blog posts:
 
