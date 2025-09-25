@@ -1,20 +1,25 @@
 ## Hi there, I'm Julius! 👋
 
-</p>
-    <a href="https://github.com/bethanyjep">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliusAngwenyi&theme=radical" alt="JuliusAngwenyi"/>
-    </a>
-</p>
-
  [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jangwenyi/)
  [![Blogs](https://img.shields.io/badge/wordpress-00749C.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://360agileweb.dev/)
  [![X Follow](https://img.shields.io/badge/twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/360AgileWeb)
  [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13370/julius-a)
  
-I'm an experienced IT professional and a multi-cloud solution architect. I work for Avanade as a Group Manager within Enterprise Technolgoy Architecture.  I'm passionate about technology and an Agile practitioner. You can visit [my blog](https://360agileweb.dev/) where I share technology related content with community.
+I'm an experienced IT professional and a multi-cloud solution architect. I work for Avanade as a Group Manager within Enterprise Technolgoy Architecture.  I'm passionate about technology and an Agile practitioner. You can visit my public profiles using the links I have shared above. 
 
+I try and contribute to public repositories and give back to the community as shown below.
+</p>
+    <a href="https://github.com/JuliusAngwenyi">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliusAngwenyi&theme=radical" alt="JuliusAngwenyi"/>
+    </a>
+</p>
+
+### Currently learning:
 - 🌱 I’m currently learning latest [AI technologies including Agentic AI, Azure AI Foundry and many more](https://ai.azure.com/)
 - 🌱 I’m currently learning [DeepLearning.AI short courses](https://www.deeplearning.ai/courses/), upskilling on Transformers, LLMs, RAGs and leveraging LangChain for LLM Application Development
+
+
+
 
 ### Blog posts:
 
