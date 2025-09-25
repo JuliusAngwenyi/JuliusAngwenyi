@@ -1,5 +1,11 @@
 ## Hi there, I'm Julius! 👋
 
+</p>
+    <a href="https://github.com/bethanyjep">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliusAngwenyi&theme=radical" alt="JuliusAngwenyi"/>
+    </a>
+</p>
+
  [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jangwenyi/)
  [![Blogs](https://img.shields.io/badge/wordpress-00749C.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://360agileweb.dev/)
  [![X Follow](https://img.shields.io/badge/twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/360AgileWeb)
@@ -40,5 +46,5 @@ I'm an experienced IT professional and a multi-cloud solution architect. I work 
   </br>
       <a href="http://www.github.com/JuliusAngwenyi"><img src="https://github-readme-stats.vercel.app/api?username=JuliusAngwenyi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Julius's GitHub stats" /></a>
       <a href="http://www.github.com/JuliusAngwenyi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuliusAngwenyi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-      <a href="http://www.github.com/JuliusAngwenyi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=JuliusAngwenyi&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/JuliusAngwenyi/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
+
   </div>
